@@ -17,3 +17,7 @@ rafce
 - swiper 설치 -> ` npm install swiper `
 
 - 추가사항 : package.json에서 바꾼 버전으로 다시 설치 -> `npm i`
+
+## SASS
+
+- 변수, 중첩, 믹스인, 확장, 연산
