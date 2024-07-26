@@ -3,7 +3,9 @@ import Main from '../components/section/Main'
 
 const Search = () => {
   return (
-    <Main>Search</Main>
+    <Main title="링크" description="유튜브 링크 페이지입니다.">
+      Search
+      </Main>
   )
 }
 

@@ -3,7 +3,9 @@ import Main from '../components/section/Main'
 
 const Gsap = () => {
   return (
-    <Main>Gsap</Main>
+    <Main title="애니메이션 효과" description="효과 페이지입니다.">
+      Gsap
+      </Main>
   )
 }
 
